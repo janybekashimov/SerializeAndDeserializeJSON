@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeJSON\\SerializeJSON.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeJSON\\SerializeJSON.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeJSON\\SerializeJSON.csproj",
+        "projectName": "SerializeJSON",
+        "projectPath": "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeJSON\\SerializeJSON.csproj",
+        "packagesPath": "C:\\Users\\Жаныбек\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeJSON\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Жаныбек\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://10.111.15.123:5055/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
