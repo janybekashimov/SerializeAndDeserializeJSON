@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeJSON\\SerializeJSON.csproj": {}
+    "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeAndDeserializeJSON\\SerializeJSON\\SerializeJSON.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeJSON\\SerializeJSON.csproj": {
+    "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeAndDeserializeJSON\\SerializeJSON\\SerializeJSON.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeJSON\\SerializeJSON.csproj",
+        "projectUniqueName": "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeAndDeserializeJSON\\SerializeJSON\\SerializeJSON.csproj",
         "projectName": "SerializeJSON",
-        "projectPath": "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeJSON\\SerializeJSON.csproj",
+        "projectPath": "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeAndDeserializeJSON\\SerializeJSON\\SerializeJSON.csproj",
         "packagesPath": "C:\\Users\\Жаныбек\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeJSON\\obj\\",
+        "outputPath": "C:\\Users\\Жаныбек\\source\\repos\\SerializeJSON\\SerializeAndDeserializeJSON\\SerializeJSON\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Жаныбек\\AppData\\Roaming\\NuGet\\NuGet.Config",
